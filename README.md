@@ -58,10 +58,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 <footer>
   <p align="center">  
     Copyright (c) 2024 <a href="https://abbottsbury-web.vercel.app">Abbottsbury</a>. All rights reserved.
