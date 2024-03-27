@@ -8,10 +8,9 @@
     </a>
   </div>
   <div align="center">
-    <br />
-    <p>
+    <h3p>
       Abbottsbury
-    </p>
+    </h3>
     <p>
       Access 80,000+ digital asset investing resources, all in one place.
     </p>
