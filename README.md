@@ -8,12 +8,14 @@
     </a>
   </div>
   <div align="center">
-    <h3>Operations</h3>
     <p>
       Abbottsbury
     </p>
     <p>
-      <a href="https://github.com/abbottsbury">Abbottsbury</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/lepagegroupe">by Lepage Groupe</a>
+      Access 80,000+ digital asset investing resources, all in one place.
+    </p>
+    <p>
+      <a href="https://github.com/abbottsbury">Abbottsbury</a> by <a href="https://github.com/lepagegroupe">Lepage Groupe</a>
     </p>
     <div>
       <a href="https://twitter.com/abbottsbury">
