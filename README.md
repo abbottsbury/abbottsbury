@@ -16,12 +16,12 @@
       <a href="https://github.com/abbottsbury">Abbottsbury</a> by <a href="https://github.com/lepagegroupe">Lepage Groupe</a>
     </p>
     <div>
-      <a href="https://twitter.com/abbottsbury">
+      <a href="https://x.com/abbottsbury">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
-            srcset="https://ico.vercel.app/twitter/ffffff"  width="16px">
-          <img src="https://ico.vercel.app/twitter/000000"  width="16px">
+            srcset="https://ico.vercel.app/x/ffffff"  width="16px">
+          <img src="https://ico.vercel.app/x/000000"  width="16px">
         </picture>
       </a>
       &nbsp;&nbsp;
